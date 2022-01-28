@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"cn.zr.day17.demo02.annotation","c":"Demo01Anno","l":"add(int, int)","u":"add(int,int)"},{"p":"cn.zr.day17.demo02.annotation","c":"Demo01Anno","l":"Demo01Anno()","u":"%3Cinit%3E()"}];updateSearchResults();
